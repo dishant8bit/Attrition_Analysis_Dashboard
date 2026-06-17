@@ -90,7 +90,7 @@ The dataset contains employee-related information used to analyze workforce perf
 
 bash
 
-git clone https://github.com/dishant8bit/Attrition_Analysis_Dashboard.git
+git clone https://https://github.com/dishant8bit/HR_Analysis_Dashboard_POWER_BI.git
 
 2. Open the .pbix file in Power BI Desktop
 
